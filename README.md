@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Yohan, a French Web Developer 👋🏼:
-👨🏼‍🎓 studying Full Stack Developper at IIM Digital School <br>👨🏼‍💻 Check Out my [Linkedin profile](https://www.linkedin.com/in/yohan-seneret/)
+👨🏼‍🎓 Studying Full Stack Developper at IIM Digital School <br>👨🏼‍💻 Check Out my [Linkedin profile](https://www.linkedin.com/in/yohan-seneret/)
 
 
 # 💻 Tech Stack:
